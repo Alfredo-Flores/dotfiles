@@ -1,5 +1,6 @@
 # Dotfiles
 
+---
 Hey, nice to see you
-
-Ubuntu dotfiles for everything.
+Personal Ubuntu dotfiles for anything, you can use it btw!
+---
